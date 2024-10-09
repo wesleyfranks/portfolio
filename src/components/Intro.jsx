@@ -28,6 +28,7 @@ const Intro = () => {
           projects I'm working on. Subscribe to my YouTube channel{' '}
           <a
             href="https://www.youtube.com/wesleyfranks"
+            target="_blank"
             className="text-cyan-600 
           hover:underline underline-offset-2 
           decoration-2 decoration-red-600"
