@@ -29,7 +29,7 @@ const Intro = () => {
           <a
             href="https://www.youtube.com/wesleyfranks"
             target="_blank"
-            className="text-cyan-600 
+            className="text-cyan-500 dark:text-sky-400 
           hover:underline underline-offset-2 
           decoration-2 decoration-red-600"
           >
