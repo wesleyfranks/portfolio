@@ -6,7 +6,7 @@ function Contact() {
     <div className="flex flex-col mb-10 mx-auto">
       <div className="flex justify-center items-center">
         <form
-          action="https://getform.io/f/(customSlugHere)"
+          action={process.env.GETFORM_SLUG_URL}
           method="POST"
           className="flex flex-col w-full md:w-7/12"
         >
@@ -23,6 +23,7 @@ function Contact() {
             placeholder="Email"
             className="my-2 p-2 bg-transparent border-2 rounded-md focus:outline-none"
           />
+          <input type="hidden" name="_gotcha" className="hidden" />
           <textarea
             name="message"
             placeholder="Message"
@@ -30,7 +31,7 @@ function Contact() {
             className="p-2 mb-4 bg-transparent border-2 rounded-md focus:outline-none"
           />
           <button
-            type="button"
+            type="submit"
             className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-yellow-500 to-pink-500 drop-shadow-md hover:stroke-white"
           >
             Work With Me
