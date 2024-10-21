@@ -12,9 +12,6 @@ Explore the portfolio in action:
 
 [https://wesleyfranks.com/](https://wesleyfranks.com/)
 
-<img width="1284" alt="Screenshot 2024-10-21 at 4 54 02 PM" src="https://github.com/user-attachments/assets/5394c02f-d485-4be3-bcde-9a015d1e4030">
-<img width="1094" alt="Screenshot 2024-10-21 at 4 54 14 PM" src="https://github.com/user-attachments/assets/67c72e9a-ad53-41a9-97ee-737fcda36256">
-
 ## 📋 Features
 
 - **Responsive Design:** Optimized for all devices.
@@ -31,11 +28,12 @@ Explore the portfolio in action:
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](https://via.placeholder.com/800x400.png?text=Homepage+Screenshot)
+<img width="1284" alt="Screenshot 2024-10-21 at 4 54 02 PM" src="https://github.com/user-attachments/assets/3e9f6558-2008-4dd7-a262-861fafa4a011">
 
-![Portfolio Section](https://via.placeholder.com/800x400.png?text=Portfolio+Section)
+<img width="1094" alt="Screenshot 2024-10-21 at 4 54 14 PM" src="https://github.com/user-attachments/assets/fb55334e-e974-4b6d-b4cd-71580d90b6f6">
 
-![Contact Form](https://via.placeholder.com/800x400.png?text=Contact+Form)
+<img width="980" alt="Screenshot 2024-10-21 at 4 59 55 PM" src="https://github.com/user-attachments/assets/15ab05bc-ed1f-496f-ae73-9b1adfac25df">
+
 
 ## 📫 Contact
 
