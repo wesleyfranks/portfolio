@@ -32,7 +32,7 @@ Explore the portfolio in action:
 
 <img width="1094" alt="Screenshot 2024-10-21 at 4 54 14 PM" src="https://github.com/user-attachments/assets/fb55334e-e974-4b6d-b4cd-71580d90b6f6">
 
-<img width="980" alt="Screenshot 2024-10-21 at 4 59 55 PM" src="https://github.com/user-attachments/assets/15ab05bc-ed1f-496f-ae73-9b1adfac25df">
+<img width="1200" alt="Screenshot 2024-10-21 at 4 59 55 PM" src="https://github.com/user-attachments/assets/15ab05bc-ed1f-496f-ae73-9b1adfac25df">
 
 
 ## 📫 Contact
