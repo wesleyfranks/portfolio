@@ -6,13 +6,14 @@ Minimal Portfolio to showcase what I work on.
 
 Eventually, I'd like to add a blog feature.
 
-## 🖥️ Live Demo
+## 🖥️ Live
 
 Explore the portfolio in action:
 
 [https://wesleyfranks.com/](https://wesleyfranks.com/)
 
-![Live Demo](https://via.placeholder.com/800x400.png?text=Live+Demo+Screenshot) *(Replace with an actual screenshot of your application)*
+<img width="1284" alt="Screenshot 2024-10-21 at 4 54 02 PM" src="https://github.com/user-attachments/assets/5394c02f-d485-4be3-bcde-9a015d1e4030">
+<img width="1094" alt="Screenshot 2024-10-21 at 4 54 14 PM" src="https://github.com/user-attachments/assets/67c72e9a-ad53-41a9-97ee-737fcda36256">
 
 ## 📋 Features
 
@@ -44,5 +45,3 @@ Explore the portfolio in action:
 - **Website:** [https://wesleyfranks.com/](https://wesleyfranks.com/)
 
 ---
-
-Thank you for visiting the **Minimal Portfolio**! Stay connected and feel free to reach out for collaborations or inquiries. 🚀✨
