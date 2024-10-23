@@ -24,12 +24,9 @@ function TimelineItem({ year, title, duration, platform, stack, details }) {
           className="mt-3 flex flex-wrap gap-2 flex-row 
             items-center justify-start text-xs md:text-sm dark:text-white"
         >
-<<<<<<< HEAD
-=======
           <span className="inline-block px-2 py-1 font-semibold text-white dark:text-stone-900 bg-stone-900 dark:bg-white rounded-md">
             {platform}
           </span>
->>>>>>> build
           {stack.map((item) => (
             <span
               className="inline-block px-2 py-1 
