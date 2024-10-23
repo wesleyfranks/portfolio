@@ -1,21 +1,21 @@
 export default [
   {
-    title: 'Single Page Website',
-    imgUrl: '/assets/Single-Page-Website.png',
-    stack: ['HTML', 'CSS'],
-    link: 'https://ironfruit-sp-basics-html-css.netlify.app/',
+    title: 'Portfolio',
+    imgUrl: '/assets/Portfolio.png',
+    stack: ['React', 'TailwindCSS', 'Vite'],
+    link: 'https://wesleyfranks.com/',
   },
   {
-    title: 'React To-Do App',
-    imgUrl: '/assets/ToDo-WebApp.png',
-    stack: ['React', 'CSS', 'Javascript', 'Vite'],
-    link: 'https://ironfruit-reactjs-todo.netlify.app/',
+    title: 'Net Take Home',
+    imgUrl: '/assets/NetTakeHome.png',
+    stack: ['React', 'TailwindCSS', 'Vite'],
+    link: 'https://wesleyfranks-nettakehome.netlify.app/',
   },
   {
     title: 'Password Generator',
     imgUrl: '/assets/Password-Generator.png',
-    stack: ['React', 'CSS', 'Javascript', 'Vite'],
-    link: 'https://wesleyfranks-passgen.web.app/',
+    stack: ['React', 'CSS', 'Vite'],
+    link: 'https://wesleyfranks-passgen.netlify.app//',
   },
 ];
 

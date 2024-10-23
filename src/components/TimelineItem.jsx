@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TimelineItem({ year, title, duration, stack, details }) {
+function TimelineItem({ year, title, duration, platform, stack, details }) {
   return (
     <ol className="flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700">
       <li className="mb-10 ml-4">
@@ -24,6 +24,12 @@ function TimelineItem({ year, title, duration, stack, details }) {
           className="mt-3 flex flex-wrap gap-2 flex-row 
             items-center justify-start text-xs md:text-sm dark:text-white"
         >
+<<<<<<< HEAD
+=======
+          <span className="inline-block px-2 py-1 font-semibold text-white dark:text-stone-900 bg-stone-900 dark:bg-white rounded-md">
+            {platform}
+          </span>
+>>>>>>> build
           {stack.map((item) => (
             <span
               className="inline-block px-2 py-1 

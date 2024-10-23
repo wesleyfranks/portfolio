@@ -13,6 +13,7 @@ function Timeline() {
             year={item.year}
             title={item.title}
             duration={item.duration}
+            platform={item.platform}
             stack={item.stack}
             details={item.details}
           />
