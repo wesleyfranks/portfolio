@@ -7,7 +7,7 @@ const Intro = () => {
           Wesley Franks
         </h1>
         <p className="text-base md:text-xl  mb-3 font-medium">
-          Building solutions with code.
+          <strong>Let's Build</strong>
         </p>
         <p className="text-sm max-w-xl mb-6 font-bold">
           I’m Wesley Franks, an IT professional with a passion for
@@ -23,6 +23,11 @@ const Intro = () => {
           solutions. Currently, I am focused on mastering cloud technologies and
           automation tools like Terraform, and I document my journey through
           blogs and training content. <br />
+          <br />
+          I enjoy building solutions to problems and so that is what the
+          projects below are. Solutions to problems I've had in the past. I may
+          take a tutorial and adapt it to my own needs.
+          <br />
           <br />
           If you’re interested in learning more about what I am learning or what
           projects I'm working on. Subscribe to my YouTube channel{' '}
