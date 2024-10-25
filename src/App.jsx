@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Intro from "./components/Intro";
 import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
+import Cert from "./components/Cert";   
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
@@ -77,6 +78,7 @@ function App() {
           <Intro />
           <Portfolio />
           <Timeline />
+          <Cert />
           <Contact />
           <Footer />
         </div>
