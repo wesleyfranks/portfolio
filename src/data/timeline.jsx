@@ -4,7 +4,7 @@ export default [
     title: 'Portfolio',
     duration: '>1 year',
     platform: 'Web',
-    stack: ['React', 'Vite', 'npm'],
+    stack: ['React', 'TailwindCSS', 'Vite', 'npm'],
     details:
       'A website (this website) that showcases my Portfolio and provides a way for others to get in touch with me. Published using github actions and built in VSCode using ReactJS + Vite. Which is hosted on Netlify. Credit to ForrestKnight (yes there are two "r"s) for the idea and YouTube Tutorial.',
   },
@@ -13,7 +13,7 @@ export default [
     title: 'NetTakeHome',
     duration: '>1 year',
     platform: 'Web',
-    stack: ['React', 'Vite', 'npm'],
+    stack: ['React', 'TailwindCSS', 'Vite', 'npm'],
     details:
       'I created this app from complete scratch using what I learned from the password generator styling as it is simple. I was always trying to find a net salary calculator and could never find one that was what I needed. So, I decided to create one. This app calculates net take home of a gross salary and includes applicable taxes per state.',
   },
@@ -22,7 +22,7 @@ export default [
     title: 'Password Generator',
     duration: '2 years',
     platform: 'Web',
-    stack: ['React', 'Vite', 'npm'],
+    stack: ['React', 'TailwindCSS', 'Vite', 'npm'],
     details:
       'This web app was created as a tutorial project that I adapted a feature for creating random word phrase based passwords using a random word generating API. I created this to solve a problem I saw with password generators not building phrase based passwords.',
   },
