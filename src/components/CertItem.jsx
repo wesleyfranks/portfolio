@@ -12,7 +12,7 @@ return (
         transition 
         duration-300 
         ease-in-out 
-        hover:drop-shadow-[0px_0px_40px_rgba(255,125,0,30)] 
+        hover:drop-shadow-[0px_0px_40px_rgba(130,0,255,30)] 
         dark:hover:drop-shadow-[0px_0px_40px_rgba(125,255,0,30)]
         "
       >
@@ -20,7 +20,9 @@ return (
           src={imgUrl}
           alt="cert"
           className="
-          h-40
+          h-62
+          w-72
+          place-items-center
           object-cover 
           cursor-pointer
           "
