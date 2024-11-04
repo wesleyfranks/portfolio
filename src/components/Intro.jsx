@@ -22,13 +22,7 @@ const Intro = () => {
           be.
           <br />
           <br />
-          I've been struggling with either getting back into a job working for
-          someone else or work tirelessly for myself. This way I can be home and
-          adjust my schedule as I need to for my daughter and my wife. I've
-          decided that's my goal. As I haven't ran a successful business, yet. I
-          will be documenting my experience on YouTube. If you're not subscribed
-          please take a look at my channel and let me know what you think. All
-          opinions, thoughts and ideas are welcome.
+          As I update this website you'll see content from YouTube videos and blog posts eventually as I update this website to support blog posts. Currently it's all manually updated. As finding a remote job is tough I am trying to set my sights on what I need for my family. From there I'd like to focus on side hustles to help us get ahead financially. 
         </p>
 
         <p className="text-left text-sm max-w-xl mb-6">
