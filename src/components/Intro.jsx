@@ -22,7 +22,33 @@ const Intro = () => {
           be.
           <br />
           <br />
-          As I update this website you'll see content from YouTube videos and blog posts eventually as I update this website to support blog posts. Currently it's all manually updated. As finding a remote job is tough I am trying to set my sights on what I need for my family. From there I'd like to focus on side hustles to help us get ahead financially. 
+          <p className="text-left text-sm max-w-xl mb-6">
+            What I enjoy:
+            <br />
+            <br />
+            <ol className="list-disc ml-6">
+              <li>
+                Building webapps to solve problems
+              </li>
+              <li>
+                Learning new things
+              </li>
+              <li>
+                Diving deep into a problem focusing all my brain power on it
+              </li>
+              <li>
+                Creating content and making videos
+              </li>
+              <li>
+                Having great conversations
+              </li>
+            </ol>
+          </p>
+          As I update this website you'll see content from YouTube videos and
+          blog posts eventually as I update this website to support blog posts.
+          Currently it's all manually updated. As finding a remote job is tough
+          I am trying to set my sights on what I need for my family. From there
+          I'd like to focus on side hustles to help us get ahead financially.
         </p>
 
         <p className="text-left text-sm max-w-xl mb-6">
