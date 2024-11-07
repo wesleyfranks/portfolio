@@ -18,15 +18,6 @@ export default [
       'I created this app from complete scratch using what I learned from the password generator styling as it is simple. I was always trying to find a net salary calculator and could never find one that was what I needed. So, I decided to create one. This app calculates net take home of a gross salary and includes applicable taxes per state.',
   },
   {
-    year: '2023',
-    title: 'Password Generator',
-    duration: '2 years',
-    platform: 'Web',
-    stack: ['React', 'TailwindCSS', 'Vite', 'npm'],
-    details:
-      'This web app was created as a tutorial project that I adapted a feature for creating random word phrase based passwords using a random word generating API. I created this to solve a problem I saw with password generators not building phrase based passwords.',
-  },
-  {
     year: '2024',
     title: 'ToDo WebApp',
     duration: '<1 year',
@@ -34,6 +25,15 @@ export default [
     stack: ['React', 'CSS', 'Vite', 'npm'],
     details:
       'This web app was created as a tutorial project. I adapted the ability to add todo with the enter key. Adjusted it from an input to a textarea that allows for more text.',
+  },
+  {
+    year: '2023',
+    title: 'Password Generator',
+    duration: '2 years',
+    platform: 'Web',
+    stack: ['React', 'TailwindCSS', 'Vite', 'npm'],
+    details:
+      'This web app was created as a tutorial project that I adapted a feature for creating random word phrase based passwords using a random word generating API. I created this to solve a problem I saw with password generators not building phrase based passwords.',
   },
   {
     year: '2015',
