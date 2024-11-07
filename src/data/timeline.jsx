@@ -27,6 +27,15 @@ export default [
       'This web app was created as a tutorial project that I adapted a feature for creating random word phrase based passwords using a random word generating API. I created this to solve a problem I saw with password generators not building phrase based passwords.',
   },
   {
+    year: '2024',
+    title: 'ToDo WebApp',
+    duration: '<1 year',
+    platform: 'Web',
+    stack: ['React', 'CSS', 'Vite', 'npm'],
+    details:
+      'This web app was created as a tutorial project. I adapted the ability to add todo with the enter key. Adjusted it from an input to a textarea that allows for more text.',
+  },
+  {
     year: '2015',
     title: 'Keep Recipe',
     duration: '8 years',
