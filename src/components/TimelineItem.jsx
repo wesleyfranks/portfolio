@@ -21,13 +21,16 @@ function TimelineItem({ year, title, duration, platform, stack, link, details })
           {details}
         </p>
         <p>
-          <a 
-            href={link} 
-            target="_blank" 
+          <a
+            href={link}
+            target="_blank"
             rel="noopener noreferrer"
-            className="my-2 hover:underline hover:text-orange-500 dark:hover:text-green-500"
+            className="
+            my-2 hover:underline 
+            hover:text-purple-600
+            dark:hover:text-green-500"
           >
-              {link}
+            {link}
           </a>
         </p>
         <p
