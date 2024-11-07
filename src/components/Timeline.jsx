@@ -15,6 +15,7 @@ function Timeline() {
             duration={item.duration}
             platform={item.platform}
             stack={item.stack}
+            link={item.link}
             details={item.details}
           />
         ))}
