@@ -1,3 +1,4 @@
+
 export default [
   {
     imgUrl: '/assets/certs/CTLinuxPlus.png',
@@ -28,4 +29,3 @@ export default [
     url: 'https://learn.microsoft.com/api/credentials/share/en-us/wesleyfranks/9423ADAA1D1CFB40?sharingId=FA49F919AA26F908',
   },
 ]; 
-
