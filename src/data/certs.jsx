@@ -2,7 +2,7 @@
 export default [
   {
     imgUrl: '/assets/certs/CTLinuxPlus.png',
-    url: 'https://www.credly.com/earner/earned/badge/369c1c23-c4a2-4780-8ba0-76d0c62b00ac',
+    url: 'https://www.credly.com/badges/369c1c23-c4a2-4780-8ba0-76d0c62b00ac',
   },
   {
     imgUrl: '/assets/certs/CTSecPlus.png',
