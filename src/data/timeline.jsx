@@ -47,7 +47,7 @@ export default [
     stack: ['Kotlin', 'Swift', 'Firebase'],
     link: '',
     details:
-      'A mobile app written in Java at first. It then was re-written in Kotlin for Android. I then found someone ot help with iOS using swift. The web app was planned for after finalizing mobile. A recipe app, think instagram but for recipes and reviews were similar to ebay reviews after buying a product. The idea behind this app was to allow you to build up a certain amount of recipes then you could order a volume 1 or recipes. As you grew your recipes and adapted others to become your own you could create a volume 2. These Keep Recipe volume cook books would have memories attached to the recipes you created. As most recipes are family recipes and have memories attached to them.',
+      'A mobile app written in Java at first. It then was re-written in Kotlin for Android. I then found someone to help with iOS using swift. The web app was planned for after finalizing mobile. A recipe app, think instagram but for recipes and reviews were similar to ebay reviews after buying a product. The idea behind this app was to allow you to build up a certain amount of recipes then you could order a volume 1 or recipes. As you grew your recipes and adapted others to become your own you could create a volume 2. These Keep Recipe volume cook books would have memories attached to the recipes you created. As most recipes are family recipes and have memories attached to them.',
   },
   {
     year: '2013',
